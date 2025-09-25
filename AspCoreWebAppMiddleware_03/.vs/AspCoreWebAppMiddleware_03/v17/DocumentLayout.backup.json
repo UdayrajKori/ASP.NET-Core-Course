@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET by Programentor\\AspCoreWebAppMiddleware_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF03FCCD-ED60-4D8E-8F6E-E590BD417DAB}|AspCoreWebAppMiddleware_03\\AspCoreWebAppMiddleware_03.csproj|d:\\asp.net by programentor\\aspcorewebappmiddleware_03\\aspcorewebappmiddleware_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF03FCCD-ED60-4D8E-8F6E-E590BD417DAB}|AspCoreWebAppMiddleware_03\\AspCoreWebAppMiddleware_03.csproj|solutionrelative:aspcorewebappmiddleware_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET by Programentor\\AspCoreWebAppMiddleware_03\\AspCoreWebAppMiddleware_03\\Program.cs",
+              "RelativeDocumentMoniker": "AspCoreWebAppMiddleware_03\\Program.cs",
+              "ToolTip": "D:\\ASP.NET by Programentor\\AspCoreWebAppMiddleware_03\\AspCoreWebAppMiddleware_03\\Program.cs*",
+              "RelativeToolTip": "AspCoreWebAppMiddleware_03\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:02:26.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
